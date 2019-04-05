@@ -1,0 +1,26 @@
+header{
+	text-align: center;
+	background-color: #AAAAAA;
+}
+
+h1{
+	font-size: 200%;
+	font-family: Georgia, Impact;
+}
+
+h2{
+	font-size: 150%;
+	font-family: Georgia;
+}
+p{
+	font-family: Georgia;
+}
+details{
+	font-family: Georgia;
+}
+ul{
+	font-family: Georgia;
+}
+body{
+	background-color: #CCCCCC;
+}
